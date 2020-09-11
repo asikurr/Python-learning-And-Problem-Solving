@@ -1,0 +1,14 @@
+1.pwd - view location
+2.ls - view folder list
+3.cd     -change directory- ex.cd h://
+4.mkdir " " - makeDirectory/folder create
+5.touch - create file
+6.cd .. - back previous folder
+7.rm 'file name'- removed file
+8.tm -rf folder name - remove folder
+9. code file name - for write a code in a single file
+10.python file name - for run the code
+11.cd ~ - for root location
+12.mv old_file_name new_file_name - for file rename
+13.rm file_name - remove file 
+14. cp fileName to folder name - for copy filsle

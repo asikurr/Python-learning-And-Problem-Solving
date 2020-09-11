@@ -1,0 +1,7 @@
+#print("Result is : " \5*6)
+print(1452%85)
+print(3**3)
+print(2**0.52)
+print(round(2**0.52, 3))
+print(2**4**2)
+print(2**16)
